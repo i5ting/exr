@@ -8,3 +8,12 @@ expressjs router
 [![codecov.io](https://codecov.io/github/i5ting/exr/coverage.svg?branch=master)](https://codecov.io/github/i5ting/exr?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
+## Install
+
+```
+$ npm i -S exr
+```
+
+## Usages
+
+all router usages in expressjs
