@@ -1,8 +1,8 @@
 {
   "name": "exr",
   "version": "1.0.0",
-  "description": "express-style router",
-  "main": "index.js",
+  "description": "expressjs router",
+  "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/nyc ./node_modules/.bin/ava -v",
     "report-coverage": "./node_modules/.bin/nyc report --reporter=lcov > coverage.lcov && codecov",
