@@ -1,5 +1,7 @@
 # exr
 
+[![Join the chat at https://gitter.im/i5ting/exr](https://badges.gitter.im/i5ting/exr.svg)](https://gitter.im/i5ting/exr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 expressjs router
 
 [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/i5ting/exr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
